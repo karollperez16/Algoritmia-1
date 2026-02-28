@@ -1,0 +1,13 @@
+Entero a, b, auxiliar
+Inicio
+    Escriba "Ingrese el valor de a: "
+    Lea a
+    Escriba "Ingrese el valor de b: "
+    Lea b
+    auxiliar <- a
+    a <- b
+    b <- auxiliar
+    Escriba "Ahora el valor de a es: ", a
+    Escriba " "
+    Escriba "Ahora el valor de b es: ", b
+Fin
