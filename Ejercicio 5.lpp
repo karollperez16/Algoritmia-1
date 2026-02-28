@@ -1,5 +1,5 @@
 Real nota1, nota2, nota3, promedio
-Cadena nombre
+Caracter nombre
 Inicio
     Escriba "Ingrese el nombre del estudiante: "
     Lea nombre
