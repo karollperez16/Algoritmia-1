@@ -1,0 +1,31 @@
+Real numero1, numero2, numero3, mayor
+
+Inicio
+
+   Escriba "Ingrese el primer numero: "
+   Lea numero1
+
+   Escriba "Ingrese el segundo numero: "
+   Lea numero2
+
+   Escriba "Ingrese el tercer numero: "
+   Lea numero3
+
+   Si numero1 > numero2 Entonces
+      Si numero1 > numero3 Entonces
+         mayor <- numero1
+      Sino
+         mayor <- numero3
+      Fin Si
+   Sino
+      Si numero2 > numero3 Entonces
+         mayor <- numero2
+      Sino
+         mayor <- numero3
+      Fin Si
+   Fin Si
+
+   Escriba "El numero mayor es: ", mayor
+
+Fin
+

@@ -1,0 +1,17 @@
+Entero numero1, numero2
+Inicio
+    Escriba "Ingrese el primer numero: "
+    Lea numero1
+    Escriba "Ingrese el segundo numero: "
+    Lea numero2
+    Si (numero1 = numero2) Entonces
+        Escriba "Los numeros son iguales"
+    Sino
+        Si (numero1 > numero2) Entonces
+        Escriba "El numero mayor es: ", numero1
+    Sino
+        Escriba "El numero mayor es: ", numero2
+    Fin si
+    Fin si
+Fin
+    
