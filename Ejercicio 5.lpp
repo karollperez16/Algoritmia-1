@@ -1,0 +1,14 @@
+Real nota1, nota2, nota3, promedio
+Caracter nombre
+Inicio
+    Escriba "Ingrese el nombre del estudiante: "
+    Lea nombre
+    Escriba "Ingrese la primera nota: "
+    Lea nota1
+    Escriba "Ingrese la segunda nota: "
+    Lea nota2
+    Escriba "Ingrese la tercera nota: "
+    Lea nota3
+    promedio <- (nota1 + nota2 + nota3) / 3
+    Escriba "El estudiante ", nombre, " tiene un promedio de: ", promedio
+Fin

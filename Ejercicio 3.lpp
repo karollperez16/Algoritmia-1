@@ -1,0 +1,7 @@
+Real radio, area
+Inicio
+    Escriba "Ingrese el radio: "
+    Lea radio
+    area <- 3.1416 * radio * radio
+    Escriba "El area del circulo es: ", area
+Fin
